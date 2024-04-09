@@ -4,9 +4,7 @@
 
 name: Metrics
 on:
-  # 🌏 Think about the planet! No need to update stats too frequently
   schedule: [{ cron: "0 16 * * *" }]
-  # 💡 The following line lets you run workflow manually from the action tab!
   workflow_dispatch:
 jobs:
   metrics:
@@ -57,5 +55,5 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
-          plugin_notable: yes
+          plugin_notable: yeslatest
           plugin_discussions: yes
