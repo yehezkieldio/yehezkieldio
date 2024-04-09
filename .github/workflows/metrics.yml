@@ -45,6 +45,7 @@ jobs:
           plugin_topics_mode: icons
           plugin_notable: yeslatest
           plugin_discussions: yes
+
       - name: 🦑 Wakatime
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
@@ -53,5 +54,5 @@ jobs:
           token: ${{ secrets.TOKEN }}
           base: ""
           plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_sections: time, languages, languages-graphs
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
