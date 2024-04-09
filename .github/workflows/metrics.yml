@@ -51,3 +51,5 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_sections: time, languages, languages-graphs
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
