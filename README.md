@@ -7,6 +7,7 @@
 
 <h2></h2><br>
 
-[<img align="center" src="https://github-profile-trophy.vercel.app/?username=yehezkieldio&theme=darkhub&no-frame=true&margin-w=20&title=Stars,Followers,Commits,Issues,MultiLanguage,Repositories">](#)
+[<img align="left" width="390" src="https://gist.github.com/yehezkieldio/ffbb9b3292391b0c5f2a671d0ec3b545/raw/general.svg">](#)
+[<img align="right" width="390" src="https://gist.github.com/yehezkieldio/ffbb9b3292391b0c5f2a671d0ec3b545/raw/achievements.svg">](#)
 
 </details>
