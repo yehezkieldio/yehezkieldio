@@ -7,8 +7,6 @@
 
 <h2></h2><br>
 
-<p align="right">
-  <img align="right" src="https://github-profile-trophy.vercel.app/?username=yehezkieldio&theme=darkhub&no-frame=true&margin-w=20&title=Stars,Followers,Commits,Issues,MultiLanguage,Repositories">
-</p>
+[<img align="center" src="https://github-profile-trophy.vercel.app/?username=yehezkieldio&theme=darkhub&no-frame=true&margin-w=20&title=Stars,Followers,Commits,Issues,MultiLanguage,Repositories">](#)
 
 </details>

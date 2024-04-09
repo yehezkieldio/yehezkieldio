@@ -21,18 +21,6 @@ jobs:
           committer_gist: ${{ secrets.GIST }}
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_fortune: yes
-
-      - name: 🦑 Wakatime
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: wakatime.svg
-          token: ${{ secrets.TOKEN }}
-          base: ""
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
 
       - name: 🦑 General
         if: ${{ success() || failure() }}
@@ -57,3 +45,13 @@ jobs:
           plugin_topics_mode: icons
           plugin_notable: yeslatest
           plugin_discussions: yes
+      - name: 🦑 Wakatime
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: wakatime.svg
+          token: ${{ secrets.TOKEN }}
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
