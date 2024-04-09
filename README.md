@@ -7,7 +7,7 @@
 
 <h2></h2><br>
 
-[<img align="left" width="390" src="https://gist.github.com/yehezkieldio/ffbb9b3292391b0c5f2a671d0ec3b545/raw/general.svg">](#)
+[<img align="left" width="340" src="https://gist.github.com/yehezkieldio/ffbb9b3292391b0c5f2a671d0ec3b545/raw/general.svg">](#)
 [<img align="right" width="390" src="https://gist.github.com/yehezkieldio/ffbb9b3292391b0c5f2a671d0ec3b545/raw/achievements.svg">](#)
 
 </details>
