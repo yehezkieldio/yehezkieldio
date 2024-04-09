@@ -8,9 +8,5 @@
 <h2></h2><br>
 
 <p align="center">
-   <br>
-   <a href="https://github.com/yehezkieldio/">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=yehezkieldio&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=c9cbff&ring=c9cbff&stroke=FFFFFFFF)](https://git.io/streak-stats)"/>
-   </a>
-   <img align="center" src="https://github-profile-trophy.vercel.app/?username=yehezkieldio&theme=darkhub&no-frame=true&margin-w=20&title=Stars,Followers,Commits,Issues,MultiLanguage,Repositories">
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=yehezkieldio&theme=darkhub&no-frame=true&margin-w=20&title=Stars,Followers,Commits,Issues,MultiLanguage,Repositories">
 </p>
