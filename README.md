@@ -1,5 +1,3 @@
-> _si omnia ficta._
-
 ![Header](GitHubPersonalReadmeHeader.png)
 
 <h3>Hi-ya! I'm Yehezkiel Dio.</h3>
