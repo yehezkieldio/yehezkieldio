@@ -7,8 +7,9 @@
   
 — Working primarily using **TypeScript** and **Go** with a growing interest in **Rust**.
 
-View my personal documentation: [here](https://yehezkieldio.gitbook.io/docs); *for a comprehensive collection of terminal commands, valuable insights, curated bookmarks, etc.*
+Visit my personal documentation [here](https://yehezkieldio.gitbook.io/docs); *for a comprehensive collection of my most frequently used terminal commands, valuable insights on a wide array of topics, curated bookmarks to fascinating resources, and much more.*
 </p>
+<br/>
 
 <details align="left">
 <summary><samp>extend for stats</samp></summary>
