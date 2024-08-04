@@ -10,6 +10,18 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
+      - name: 🦑 Traffic
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: traffic.svg
+          token: ${{ secrets.TOKEN }}
+          base: repositories
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          plugin_traffic: yes
+          plugin_habits: yes
+          plugin_habits_facts: yes
       - name: 🦑 Achievements
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
