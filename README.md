@@ -1,3 +1,5 @@
+![Header](readme_banner.png)
+
 <h3>Hi-ya! I'm Yehezkiel Dio.</h3>
 <p>A software engineer specializing in a full-stack development, with an on and off focus on the frontend. I have passion for contributing to open-source projects, and a strong enthusiasm for DevOps practices and an interest in software architecture. 
   
