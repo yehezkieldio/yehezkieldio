@@ -1,13 +1,4 @@
 <h3>Hi-ya! I'm Yehezkiel Dio.</h3>
-<p>A software engineer specializing in a full-stack development, with an on and off focus on the frontend. I have passion for contributing to open-source projects, and a strong enthusiasm for DevOps practices and an interest in software architecture. 
-  
-— Working primarily using **TypeScript** and **Go** with a growing interest in **Rust**.
-
-</p>
-<br/>
-
-<!--- Visit my personal documentation [here](https://yehezkieldio.gitbook.io/docs) for *a comprehensive collection of my most frequently used terminal commands, valuable insights on a wide array of topics, curated bookmarks to fascinating resources, and much more.* -->
-
 <details align="left">
 <summary><samp>extend for stats</samp></summary>
 
