@@ -4,26 +4,12 @@
 
 name: Metrics
 on:
-  schedule: [{ cron: "0 16 * * *" }]
+  schedule: [{ cron: "0 16 * * 1" }]
   workflow_dispatch:
 jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: 🦑 Traffic
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: traffic.svg
-          token: ${{ secrets.TOKEN }}
-          base: repositories
-          output_action: gist
-          committer_gist: ${{ secrets.GIST }}
-          plugin_traffic: yes
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_lines: yes
-          plugin_lines_delay: 30
       - name: 🦑 Achievements
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
@@ -35,7 +21,6 @@ jobs:
           committer_gist: ${{ secrets.GIST }}
           plugin_achievements: yes
           plugin_achievements_display: compact
-
       - name: 🦑 General
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
@@ -49,20 +34,7 @@ jobs:
           committer_gist: ${{ secrets.GIST }}
           plugin_languages: yes
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
-          plugin_languages_details: lines, bytes-size, percentage
+          plugin_languages_details: lines, percentage
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes
           plugin_languages_limit: 5
-
-      - name: 🦑 Wakatime
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: wakatime.svg
-          token: ${{ secrets.TOKEN }}
-          base: ""
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, languages, languages-graphs
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          output_action: gist
-          committer_gist: ${{ secrets.GIST }}
