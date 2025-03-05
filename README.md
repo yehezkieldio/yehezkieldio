@@ -17,8 +17,4 @@ I'm a software engineer based in Indonesia. I am passionate about building acces
         <img height=200 src="https://github-readme-stats.vercel.app/api/wakatime?username=yehezkieldio&theme=tokyonight&border_color=1f2335&hide_progress=true&langs_count=10" alt="GitHub Stats" />
     </div>
     <br>
-    <div align="center">
-        <img src="https://streak-stats.demolab.com?user=yehezkieldio&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </div>
-    <br>
 </details>
