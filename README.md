@@ -5,7 +5,7 @@ Hello! I am **Yehezkiel Dio** `/iˈziːkiel/`(also known as **Eliziel** or **Liz
 I'm a software engineer based in Indonesia. I am passionate about building accessible and delightful digital experiences. I mostly work in full-stack web development, with a generalized focus on front-end, back-end, and devops technologies, though I don't consider myself an expert in any specific area.
 
 <details>
-    <summary>statistics/analytics.</summary>
+    <summary><i>statistics/analytics</i></summary>
     <br>
     <div align="center">
         <img height=200 src="https://github-readme-stats.vercel.app/api?username=yehezkieldio&count_private=True&show_icons=true&include_all_commits=true&theme=tokyonight&border_color=1f2335" alt="GitHub Stats" />
