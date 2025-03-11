@@ -5,7 +5,7 @@ Hello! I am **Yehezkiel Dio** `/iˈziːkiel/`(also known as **Eliziel** or **Liz
 I'm a software engineer based in Indonesia. I am passionate about building accessible and delightful digital experiences. I mostly work in full-stack web development, with a generalized focus on front-end, back-end, and devops technologies, though I don't consider myself an expert in any specific area.
 
 <details>
-    <summary><i>statistics/analytics</i></summary>
+    <summary>statistics</summary>
     <br>
     <div align="center">
         <img align="center" src="https://github-profile-trophy.vercel.app/?username=yehezkieldio&title=Commits,Followers,Repositories,Experience,Issues,PullRequest,MultiLanguage&margin-w=15&theme=tokyonight&no-frame=true&column=-1" alt="GitHub Trophy" />
