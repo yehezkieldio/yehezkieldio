@@ -5,7 +5,7 @@ Hello! I am **Yehezkiel Dio** `/iˈziːkiel/`(also known as **Eliziel** or **Liz
 I'm a software engineer based in Indonesia. I am passionate about building accessible and delightful digital experiences. I mostly work in full-stack web development, with a generalized focus on front-end, back-end, and devops technologies, though I don't consider myself an expert in any specific area.
 
 <details>
-    <summary>statistics</summary>
+    <summary>github stats</summary>
     <br>
     <div align="center">
         <img align="center" src="https://github-profile-trophy.vercel.app/?username=yehezkieldio&title=Commits,Followers,Repositories,Experience,Issues,PullRequest,MultiLanguage&margin-w=15&theme=tokyonight&no-frame=true&column=-1" alt="GitHub Trophy" />
@@ -17,7 +17,15 @@ I'm a software engineer based in Indonesia. I am passionate about building acces
     </div>
     <br>
     <div align="center">
-        <img height=400 src="https://github-readme-stats.vercel.app/api/wakatime?username=yehezkieldio&theme=tokyonight&border_color=1f2335&hide_progress=true&langs_count=10" alt="GitHub Stats" />
+        <img height=400 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yehezkieldio&theme=tokyonight" alt="GitHub Stats" />
     </div>
     <br>
+</details>
+
+<details>
+    <summary>wakatime stats</summary>
+    <br>
+    <div align="center">
+        <img height=400 src="https://github-readme-stats.vercel.app/api/wakatime?username=yehezkieldio&theme=tokyonight&border_color=1f2335&hide_progress=true&langs_count=10" alt="WakaTime Stats" />
+    </div>
 </details>
